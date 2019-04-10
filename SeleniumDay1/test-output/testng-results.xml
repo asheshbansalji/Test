@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1343" started-at="2019-04-09T10:18:25Z" finished-at="2019-04-09T10:18:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1343" started-at="2019-04-09T10:18:25Z" finished-at="2019-04-09T10:18:26Z">
+      <class name="test.NewTest8">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.NewTest8@4563e9ab]" name="beforeTest" is-config="true" duration-ms="458" started-at="2019-04-09T15:48:25Z" finished-at="2019-04-09T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testFail()[pri:0, instance:test.NewTest8@4563e9ab]" name="testFail" duration-ms="37" started-at="2019-04-09T15:48:25Z" finished-at="2019-04-09T15:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFail -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest8@4563e9ab]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:48:25Z" finished-at="2019-04-09T15:48:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testFail status=SUCCESS method=NewTest8.testFail()[pri:0, instance:test.NewTest8@4563e9ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.NewTest8@4563e9ab]" name="afterTest" is-config="true" duration-ms="621" started-at="2019-04-09T15:48:25Z" finished-at="2019-04-09T15:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="testPass()[pri:0, instance:test.NewTest8@4563e9ab]" name="testPass" duration-ms="3" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPass -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest8@4563e9ab]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPass status=SUCCESS method=NewTest8.testPass()[pri:0, instance:test.NewTest8@4563e9ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.NewTest8@4563e9ab]" name="afterTest" is-config="true" duration-ms="79" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="testSkipp()[pri:0, instance:test.NewTest8@4563e9ab]" name="testSkipp" duration-ms="2" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSkipp -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.NewTest8@4563e9ab]" name="afterTest" is-config="true" duration-ms="109" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest8@4563e9ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-09T15:48:26Z" finished-at="2019-04-09T15:48:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSkipp status=SUCCESS method=NewTest8.testSkipp()[pri:0, instance:test.NewTest8@4563e9ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.NewTest8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
